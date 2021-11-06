@@ -1,0 +1,7 @@
+C:\Users\bon98\Desktop\BlackJack_CSharp\BlackJack_CSharp\bin\Debug\BlackJack_CSharp.exe.config
+C:\Users\bon98\Desktop\BlackJack_CSharp\BlackJack_CSharp\bin\Debug\BlackJack_CSharp.exe
+C:\Users\bon98\Desktop\BlackJack_CSharp\BlackJack_CSharp\bin\Debug\BlackJack_CSharp.pdb
+C:\Users\bon98\Desktop\BlackJack_CSharp\BlackJack_CSharp\obj\Debug\BlackJack_CSharp.csprojAssemblyReference.cache
+C:\Users\bon98\Desktop\BlackJack_CSharp\BlackJack_CSharp\obj\Debug\BlackJack_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\bon98\Desktop\BlackJack_CSharp\BlackJack_CSharp\obj\Debug\BlackJack_CSharp.exe
+C:\Users\bon98\Desktop\BlackJack_CSharp\BlackJack_CSharp\obj\Debug\BlackJack_CSharp.pdb
